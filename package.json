@@ -14,6 +14,7 @@
     "react": "16.3.1",
     "react-native": "0.55.4",
     "react-native-bluetooth-cross-platform": "0.0.9",
+    "react-native-firebase": "^4.3.7",
     "react-native-keyboard-aware-scroll-view": "^0.5.0",
     "react-navigation": "^1.0.0-beta.27",
     "react-navigation-mobx-helpers": "0.0.4",
